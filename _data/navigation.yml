@@ -1,8 +1,8 @@
 - name: Home
   link: /
 - name: Blog
-  link: wceastwood01.github.io/APT238.io/blog.html
+  link: blog.html
 - name: About
-  link: wceastwood01.github.io/APT238.io/about.html
+  link: about.html
 - name: Contributors
-  link: wceastwood01.github.io/APT238.io/contributors.html
+  link: contributors.html
