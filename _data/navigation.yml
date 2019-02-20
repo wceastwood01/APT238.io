@@ -1,8 +1,8 @@
 - name: Home
-  link: /APT238.io/
+  link: /
 - name: Blog
-  link: /APT238.io/blog.html
+  link: /blog.html
 - name: About
-  link: /APT238.io/about.html
+  link: /about.html
 - name: Contributors
-  link: /APT238.io/contributors.html
+  link: /contributors.html
